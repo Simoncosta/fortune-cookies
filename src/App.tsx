@@ -41,7 +41,10 @@ function App() {
     <Container>
       <img src={imgCookie} className="w-72 h-72" />
       <Button name='OPEN COOKIE' action={breakCookie} />
-      {textPhrase !== '...' && <Button name='CLEAR COOKIE' action={clearCookie} />}
+      {
+        textPhrase !== '...' &&
+        <Button name='CLEAR COOKIE' action={clearCookie} />
+      }
       <Phrase phrase={textPhrase} />
     </Container>
   )

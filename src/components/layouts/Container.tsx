@@ -2,7 +2,7 @@ export default function Container({ children }: React.PropsWithChildren) {
     return (
         <div className='
             h-screen 
-            bg-[#FCB5E1] 
+            bg-red-400
             flex 
             flex-col 
             items-center 
