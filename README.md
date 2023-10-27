@@ -1,6 +1,10 @@
+
 # Fortune Cookies App com React e Tailwind CSS
 
 Este é um aplicativo simples desenvolvido em React que utiliza Tailwind CSS para estilização. Ele simula a experiência de quebrar biscoitos da sorte e exibe frases aleatórias para o usuário.
+
+## Visão do projeto online
+[Fortune Cookie](https://fortune-cookie-simon.netlify.app/)
 
 ## Como executar o aplicativo
 
