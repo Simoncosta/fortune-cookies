@@ -34,7 +34,6 @@ function App() {
     'Tenha fé em milagres, mas trabalhe arduamente para alcançar seus objetivos.',
     'A maior barreira para o sucesso é a incapacidade de superar o medo do fracasso.',
     'Nenhuma tempestade dura para sempre. Acredite na luz no fim do túnel.',
-    'Para alcançar a paz interior, seja fiel a si mesmo e não se compare aos outros.'
   ];
 
   return (
